@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilaika005
+- 👋 Hi, I’m ilai
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently learning Back-End Programming Languages
 

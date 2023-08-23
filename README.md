@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ilai
-- 👀 I’m interested in Machine Learning & AI
+- 👀 I’m interested in Machine Learning, AI, and Cyber Security
 - 🌱 I’m currently learning Back-End Programming Languages
 
 <!---
